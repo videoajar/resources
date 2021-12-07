@@ -1,0 +1,14 @@
+1. aplikasi digunakan untuk memudahkan user melakukan booking makanan di sebuah restaurant
+2. aplikasi terdiri dari menu login, registrasi, dashboard, system report, dan profile akun
+3. Saat aplikasi dijalankan akan membawa user kepada halaman menu makanan dan minuman
+4. saat user selesai memilih makanan / minuman akan langsung mengirimkan data pesanan ke sisi admin dan menetapkan 1 servant sebagai pelayannya
+5. Menu login, registrasi, system report dan profile akun hanya ada pada sisi admin untuk para staff resturant
+6. Untuk servant resto yang akan tugas melayani harus login dahulu untuk dapat masuk ke halaman order monitoring
+7. Menu registrasi ditujukan untuk karyawan baru yang belum terdaftar akunnya pada database aplikasi
+8. Saat seorang kustomer memesan makanan sistem akan mengirimkan data ke salah satu servant yang ditunjuk random yg sedang available
+9. bila petugas klik order untuk konfirmasi pelayanan pada order monitoring, pesanan akan masuk ke halaman order transfer kitchen system di tv monitor dapur untuk para koki memasak pesanan user
+10. saat makanan siap disajikan dari dapur koki akan klik tombol masakan siap disajikan dan pada page order monitoring petugas ybs akan ternotif untuk diambil dan diantar ke kustomer
+11. Table selection system akan membantu menginformasikan dimana letak kustomer duduk dengan peta meja yang menjadi berwarna hijau
+12. Bluetooth support system adalah fitur yg berfungsi sebagai koneksi cadangan bila wifi mati
+13. Owner profile panel adalah halaman yang menginformasikan data petugas dan siapa supervisornya langsung
+14. System report adalah fitur menu yg dapat digunakan semua jenis akun terkait bugs, troubleshoot, salah data pesanan, petugas yang tidak sopan, melakukan kesalahan tugas, juga bila ada kustomer yang melakukan fault (mencuri, tidak bayar, memecahkan assets resto seperti piring, dsb)

@@ -1,0 +1,14 @@
+1. aplikasi digunakan untuk memudahkan user membeli buah - buahan secara online
+2. aplikasi terdiri dari menu login, registrasi, dashboard, fruit menu, dan profile akun
+3. Saat aplikasi dijalankan akan membawa user kepada halaman welcome untuk user melakukan login / register
+4. saat berhasil login user akan dibawa ke menu dashboard
+5. Dashboard  akan menginformasikan nama user, saldo uang di aplikasi, pesanan aktif, dan history
+6. Bila user menggeser hallaman dashboard keatas akan langsung tampil menu buah - buahan yang dapat dibeli beserta harganya serta panel pembelian (add/remove, tombol checkout)
+7. Pada saat user selesai memasukan  item  buah kedalam list dan klik tombol checkout, aplikasi akan langsung menampilkan halaman konformasi yang berisi info item yang dibeli beserta total harganya
+8. Saat user melakukan konfirmasi ok, aplikasi akan menampilkan halaman pembayaran dan mengaktifkan fitur payment gateway
+9. Bila pembayaran selesai maka aplikasi akan mencarikan ketersediaan driver dan user dapat menambahkan catatan - catatan
+10. Aplikasi akan menampilkan info transaksi selesai saat buah sampai di tempat user dan masuk ke data history
+11. Terdapat fitur payment gateway untuk :
+    > menambah saldo
+    > memotong saldo dari transaksi yang selesai dilakukan
+    > mengembalikan saldo dari transaksi yang batal dilakukan

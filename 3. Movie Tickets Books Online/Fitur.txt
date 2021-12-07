@@ -1,0 +1,11 @@
+1. aplikasi digunakan untuk memudahkan user melakukan booking dan pembelian tiket film secara online
+2. aplikasi terdiri dari menu login, registrasi, dashboard, film menu, dan profile akun
+3. Saat aplikasi dijalankan akan membawa user kepada halaman welcome untuk user melakukan login / register
+4. saat berhasil login user akan dibawa ke menu dashboard
+5. Dashboard  akan menginformasikan nama user, list teater, dan film yang sedang tayang
+6. Saat user telah memilih lokasi teater, aplikasi akan lgsg menampilkan daftar film
+7. setelah sebuah film diklik user akan lgsg diantar ke halaman booking yang menampilkan peta kursi 
+8. Saat user melakukan konfirmasi ok, aplikasi akan menampilkan halaman pembayaran dan mengaktifkan fitur payment gateway
+9. Bila pembayaran selesai maka aplikasi akan mencetak tiket 
+10. Aplikasi akan menampilkan info transaksi selesai saat buah sampai di tempat user dan masuk ke data history
+

@@ -1,0 +1,14 @@
+1. aplikasi digunakan untuk memberikan prediksi statistik corona esok hari berdasarkan statistik yang telah terjadi hingga hari ini
+2. aplikasi terdiri dari menu login, registrasi, dashboard, stat page, dan profile akun
+3. Saat aplikasi dijalankan akan membawa user kepada halaman welcome untuk user melakukan login / register
+4. saat berhasil login user akan dibawa ke menu dashboard
+5. Dashboard menu terdiri dari 3 menu : statistik page, homepage dan profile dgn homepage sebagai defaultnya
+6. Pada menu homepage user akan diinformasikan peta dimana mereka berada
+7. Pada homepage terdapat menu :
+   > Scan QR Code yang daat login diarea tertentu pada map yang terdapat checkpoint
+   > Upload vaksin cert utk upload sertifikat vaksin yg akan lgsf update ke profile page
+   > Covid19 Invected today akan menampilkan data corona hari ini
+   > Healthy report untuk memasukan data kesehatan user hariu ini (sehat/ terinfeksi/sembuh,dll)
+8. Bila menu stat diklik akan membawa user kepada stat page yang menginformasikan akumulasi data corona hingga hari ini, prediksi esok hari dan data dunia
+9. Bila menu profile diklik akan membawa user kepada data dirinya
+10. bila tombol back ditekan akan membawa ke menu sebelumnya, jika sudah pada homepage akan keluar aplikasi

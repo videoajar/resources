@@ -1,0 +1,10 @@
+1. aplikasi digunakan untuk memudahkan user melihat jadwal dan list film sebuah staiun tv digital
+2. aplikasi terdiri dari menu login, registrasi, dashboard, film menu, dan profile akun
+3. Saat aplikasi dijalankan akan membawa user kepada halaman welcome untuk user melakukan login / register
+4. saat berhasil login user akan dibawa ke menu dashboard
+5. Dashboard  akan menginformasikan nama user, list film dalam 24 jam terakhir, dan film yang sedang tayang saat ini
+6. Saat user telah memilih sepesifik tv show, aplikasi akan lgsg menampilkan info film seperti judul, jam tayang, durasi, sinopsis dan aktifkan alarm notifikasi
+7. setelah sebuah alarm notofikasi film diklik user akan diingatkan 15 menit sebelum tv show dimulai
+8. Saat user selesai menonton 1 tv program, aplikasi akan mencatatnya di database stat penonton
+9. Bila tv program memiliki banyak penonton akan tampil keterangan trend di aplikasi
+10. Aplikasi akan menampilkan resume data trafik penonton film pada profile program tv show ybs.
